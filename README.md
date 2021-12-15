@@ -1,6 +1,6 @@
 # 编程电子书
 
-手机一些有价值的编程电子书
+收集一些有价值的编程电子书
 
 - [JavaScript 高级程序设计（第 4 版）.pdf](./books/JavaScript高级程序设计（第4版）.pdf)
 - [CSS 权威指南（第 3 版）.pdf](./books/CSS权威指南（第3版）.pdf)
